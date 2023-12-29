@@ -1,0 +1,54 @@
+{
+  "musicData": [
+    {
+      "title": "17岁",
+      "author": "刘德华",
+      "src": "https://lj-sycdn.kuwo.cn/e7442571350e29b4d7c5126d4af57aa2/6587f6a8/resource/n1/42/21/2579915164.mp3?from=vip",
+      "musicImgSrc": "https://www.shujia365.com/uploads/allimg/c210304/1614O3305J310-11cQ.jpg",
+      "lrc": "lrc/17岁-刘德华.lrc"
+    },
+    {
+      "title": "爱是你我",
+      "author": "刀郎",
+      "src": "https://lf-sycdn.kuwo.cn/4cc0795112fda34952443abefdbc6649/6587ffbc/resource/n3/83/80/257632065.mp3?from=vip",
+      "musicImgSrc": "https://www.zaoxu.com/uploadfile/imgall/31d52a2834349b033badf186a405ce36d3d539bd57.jpg",
+      "lrc": "lrc/爱是你我-刀郎王翰仪云朵.lrc"
+    },
+    {
+    "title": "冰雨",
+    "author": "刘德华",
+    "src": "https://m10.music.126.net/20231224181955/28564249aca7a6857a8b6fdeff8278c4/ymusic/98b1/6f57/fd8e/8df6eca0009b28c25888628b9273e32a.mp3",
+    "musicImgSrc": "https://img0.baidu.com/it/u=201099954,75824664&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=281",
+    "lrc": "lrc/冰雨(Live)-刘德华.lrc"
+  }, {
+    "title": "广东爱情故事",
+    "author": "广东雨神",
+    "src": "https://nf-sycdn.kuwo.cn/f175d18dd4404a3f2d64f9474884e1d5/6587e9f2/resource/n1/23/75/3673924630.mp3?from=vip",
+    "musicImgSrc": "https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=3283023278,2758205127&fm=58&bpow=1824&bpoh=1824",
+    "lrc": "lrc/guangdongaiqinggushi.lrc"
+  }, {
+    "title": "就是爱你",
+    "author": "陶喆",
+    "src": "https://ra-sycdn.kuwo.cn/63bf12a31e20a52403e95603a54ad6a2/6587f350/resource/n1/128/21/43/1177190783.mp3?from=vip",
+    "musicImgSrc": "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=1407964657,2382644691&fm=58",
+    "lrc": "lrc/jiushiaini.lrc"
+  }, {
+    "title": "最美的期待",
+    "author": "周笔畅",
+    "src": "https://nf-sycdn.kuwo.cn/22c8f9c625ecfed0d943605626f7c644/6588006b/resource/n1/93/93/3453917557.mp3?from=vip",
+    "musicImgSrc": "http://singerimg.kugou.com/uploadpic/softhead/400/20180718/20180718110356316.jpg",
+    "lrc": "lrc/zuimeideqidai.lrc"
+  }, {
+    "title": "追光者",
+    "author": "岑宁儿",
+    "src": "https://cu-sycdn.kuwo.cn/7d5ffd5decfe2993d736f0754fa02f82/6587e77f/resource/n1/23/79/3575555615.mp3?from=vip",
+    "musicImgSrc": "https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=2556611937,1195664541&fm=58&bpow=2000&bpoh=2000",
+    "lrc": "lrc/zhuiguangzhe.lrc"
+  }, {
+    "title": "让我欢喜让我忧",
+    "author": "周华健",
+    "src": "https://nf-sycdn.kuwo.cn/da84c0906500d9505b27c8b45b7562ca/65795d60/resource/n2/66/55/3812288170.mp3?from=vip",
+    "musicImgSrc": "http://p4.music.126.net/lDyytkTaPYVTb1Vpide6AA==/18591642115187138.jpg",
+    "lrc": "lrc/rwhxrwy.lrc"
+  }]
+}
