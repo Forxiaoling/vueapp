@@ -31,6 +31,22 @@ export default {
             movieList:[],
         }
     },
+
+    methods:{
+        getDetail(item){
+            this.$router.push(`/moviedetail/${item}`)
+        },
+        // getdata(){
+        //     let url = 'https://www.fastmock.site/mock/005c74a44292192cad2849a876ab5ac2/myapp/api/movie/:id';
+        //     axios.get(url).then(res=>{
+        //    let getList = res.data.splice(this.movieList.length,this.movieList.length + 5);
+        // //    console.log(this.movieList)
+        //     this.movieList = this.movieList.concat(getList);
+        //     // console.log(this.movieList)
+        // });
+        // },
+        
+    },
     created(){
         this.$emit('switchTab','movie')
         
@@ -38,14 +54,30 @@ export default {
         axios.get(url).then(res=>{
            
             this.movieList = res.data
-             console.log(this.movieList)
+            //  console.log(this.movieList)
         })
+        // this.getdata()
     },
-    methods:{
-        getDetail(item){
-            this.$router.push(`/moviedetail/${item}`)
-        }
-    }
+    mounted(){
+        // // window.onscroll = ()=>{
+        // //     let scrollTop = document.documentElement.scrollTop;
+        // //     let scrollHeight = document.documentElement.scrollHeight;
+        // //     let clientHeight = document.documentElement.clientHeight;
+        // //     console.log(scrollHeight,clientHeight,scrollTop)
+        // // },
+        // window.onscroll = ()=>{
+        //         //document.Element  获取html的值   clientHeight 可视区域的高度  scrollHeight  html内容的高度  scrollTop 滚动条到顶的高度
+        //       let scrollTop = document.documentElement.scrollTop;
+        //       let scrollHeight = document.documentElement.scrollHeight
+        //       let clientHeight = document.documentElement.clientHeight
+        //       console.log(scrollHeight,scrollTop,clientHeight);
+        //     //   if(scrollHeight == scrollTop + clientHeight && !this.isEnd){
+        //     //     //请求数据
+        //     //     this.getData();
+        //     //   }
+        //     }
+    },
+    
 }
 </script>
 <style lang="scss" scoped>

@@ -68,5 +68,7 @@ export default {
   top: 1rem;
   bottom: 1rem;
   z-index: -1;
+  overflow-y: scroll;
+  padding: 0.2rem 0.2rem;
 }
 </style>
