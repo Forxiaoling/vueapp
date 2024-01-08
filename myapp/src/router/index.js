@@ -4,6 +4,7 @@ import MyMusic from '@/views/Music/MyMusic.vue'
 import MyBook from '@/views/Book/MyBook.vue'
 import MyPhoto from '@/views/Photo/MyPhoto.vue'
 import MovieDetail from '@/views/Movie/MovieDetail.vue'
+import PhotoDetail  from '@/views/Photo/PhotoDetail.vue'
 
 const routes = [
   {
@@ -35,6 +36,11 @@ const routes = [
     name: 'moviedetail',
     component: MovieDetail
   },
+  {
+    path:'/photodetail/:index',
+    name:'photodetail',
+    component: PhotoDetail
+  }
   
 ]
 
